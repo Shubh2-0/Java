@@ -18,3 +18,8 @@ Please read our [Contribution Guidelines](CONTRIBUTING.md) before you contribute
 
 ## Algorithms
 Our [directory](DIRECTORY.md) has the full list of applications.
+
+---
+
+## 👤 Author
+*   **Shubham Bhati** (Java Backend Engineer) - [LinkedIn](https://www.linkedin.com/in/bhatishubham) | [Portfolio](https://shubhambhati.is-a.dev)
